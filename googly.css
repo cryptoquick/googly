@@ -3,7 +3,7 @@ html, body {
   padding: 0;
 }
 
-.toucher {
+#toucher {
   height: 100vh;
   width: 100vw;
   background-color: red;
